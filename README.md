@@ -38,6 +38,11 @@ This project implements a robust and modern WiFi Manager for the ESP32 using asy
     *   `bblanchon/ArduinoJson`
 *   **Frontend**: HTML5, CSS3 (Variables, Flexbox, Animations), Vanilla JavaScript.
 
+## Setup
+1. Upload filesystem(data folder) following this [instruction](https://randomnerdtutorials.com/esp32-vs-code-platformio-spiffs/)
+2. Flash `ESP32`
+
+
 ## 🚀 How to Use
 
 1.  **Setup**: Power on the ESP32. It will create a WiFi network named **`ESP32-Setup`**.
